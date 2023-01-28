@@ -1,4 +1,4 @@
-# Creative-Developer-Widget
+# Creative Developer Widget
 
 ## I developed this plugin using php language with some front-end framework.
 - Creative Development Widget is a powerful and user-friendly WordPress plugin that allows users to easily design and upload pictures and videos with their own creativity. This plugin is perfect for bloggers, photographers, and videographers who want to add a personal touch to their website and showcase their work in a visually stunning way.

@@ -7,6 +7,6 @@
 
 - One of the best feature of this plugin is that it's easy for the user to use. The user-friendly interface makes it easy for even the most technologically challenged users to add and edit images and videos on their website.
 
-- The plugin also includes a variety of customization options, such as the ability to add background colors, patterns, and animations. Users can also choose from a range of pre-designed templates or create their own..
+- The plugin also includes a variety of customization options, such as the ability to add background colors, patterns, and animations. Users can also choose from a range of pre-designed templates or create their own.
 
 - The Creative Development Widget is a must-have plugin for any website that wants to add a personal touch and stand out from the crowd. It's perfect for creating beautiful image and video galleries, and it's easy to use, so you can focus on creating great content.
